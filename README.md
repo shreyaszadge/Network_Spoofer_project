@@ -10,10 +10,10 @@ not searching mac address but there are script versions 2
 python 3<br>
 linux terminal<br>
 <h3>Installation</h3>
-1) git clone https://github.com/shreyaszadge/Network_Scanner_project.git<br>
-2) cd Network_Scanner_project <br>
+1) git clone https://github.com/shreyaszadge/Network_Spoofer_project.git<br>
+2) cd Network_Spoofer_project <br>
 3) sudo pip install -r requirement.txt<br>
-4) sudo python3 Network_scanner_1.0.py -h<br>
-5) sudo python3 Network_scanner_1.0.py -t [your local ip]<br>
+4) sudo python3 Network_spoofer_1.0.py -h<br>
+5) sudo python3 Network_spoofer_1.0.py -t [your local ip]<br>
   
 <h3> Output of program </h3>
