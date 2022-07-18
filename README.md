@@ -17,3 +17,4 @@ linux terminal<br>
 5) sudo python3 Network_spoofer_1.0.py -t [your local ip]<br>
   
 <h3> Output of program </h3>
+![Screenshot from 2022-05-17 11-38-46](https://user-images.githubusercontent.com/68802737/179520156-05fb407e-4e4f-42f9-b4df-86e0a74657a1.png)
